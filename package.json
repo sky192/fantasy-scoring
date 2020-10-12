@@ -2,7 +2,7 @@
   "name": "fantasy-scoring",
   "version": "1.0.0",
   "description": "",
-  "main": ".eslintrc.js",
+  "main": "scoring.js",
   "scripts": {
     "lint": "./node_modules/.bin/eslint --format codeframe .",
     "lint:fix": "./node_modules/.bin/eslint --fix --format codeframe .",
